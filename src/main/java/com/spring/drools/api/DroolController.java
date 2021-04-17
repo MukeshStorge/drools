@@ -1,4 +1,4 @@
-package com.javatechie.spring.drools.api;
+package com.spring.drools.api;
 
 import org.kie.api.runtime.KieSession;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class MegaOfferController {
+public class DroolController {
 	@Autowired
 	private KieSession session;
 

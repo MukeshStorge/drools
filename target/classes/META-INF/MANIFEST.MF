@@ -3,7 +3,7 @@ Built-By: Mukesh.V
 Build-Jdk: 15.0.1
 Implementation-Title: spring-drools
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.javatechie
+Implementation-Vendor-Id: com.spring
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
  -starter-parent/spring-drools
 Created-By: Maven Integration for Eclipse

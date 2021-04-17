@@ -1,5 +1,5 @@
 package KieRule;
-import com.javatechie.spring.drools.api.Order;
+import com.spring.drools.api.Order;
 
 rule "HDFC"
 
